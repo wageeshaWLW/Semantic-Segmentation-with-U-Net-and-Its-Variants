@@ -19,16 +19,3 @@ Deep learning has significantly advanced segmentation performance, with **U-Net 
 - Evaluate segmentation accuracy in terms of **handling occlusions, fine details, and overall pixel-wise classification performance**.  
 - Analyze the trade-offs between **model complexity and segmentation quality**.  
 
-Repository: wageeshawlw/semantic-segmentation-with-u-net-and-its-variants
-Files analyzed: 5
-
-Estimated tokens: 44.2k
-
-Directory structure:
-└── wageeshawlw-semantic-segmentation-with-u-net-and-its-variants/
-    ├── README.md
-    ├── archs.py
-    ├── attentionunet.py
-    ├── Binary_Segmentation.ipynb
-    └── Multiclass_Segmentation.ipynb
-
